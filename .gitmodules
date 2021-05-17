@@ -1,3 +1,6 @@
 [submodule "git"]
 	path = git
 	url = git@github.com:valpere-test/git-test.git
+[submodule "webhook"]
+	path = webhook
+	url = git@github.com:valpere-test/webhook-test.git
